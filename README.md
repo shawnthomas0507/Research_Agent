@@ -24,12 +24,4 @@ The Research Agent is a Python-based AI tool designed to generate analyst person
 
 ---
 
-## Usage
 
-### Example Input
-```python
-state = {
-    "topic": "Benefits of drinking water",
-    "max_analysts": 3,
-    "human_analyst_feedback": "Focus on health benefits and environmental impact."
-}
